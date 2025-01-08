@@ -58,10 +58,7 @@ type: docs
 **此部分请结合教学视频操作！！！**
 ![](/img/lx/settings.png)
 ## 以安卓手机为例
-请观看操作视频
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113757174894754&bvid=BV1EZ6iY3E1e&cid=27657503699&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-如果视频无法播放，请点击链接前往b站观看：[点击前往](https://b23.tv/UiQVqb1)
+教学已经发布到b站，请点击链接前往b站观看：[点击前往](https://b23.tv/UiQVqb1)
 
 ## 实践出真知
 相信你阅读了本次教学，可以自己通过安卓端操作演示举一反三进行电脑端的操作了，快去试一试吧！
